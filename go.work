@@ -1,0 +1,6 @@
+go 1.20
+
+use ./1_twosum
+use ./2_addtwonumbers
+use ./3_longest_substring_without_repeating
+use ./4_median_of_two_sorted_arras
